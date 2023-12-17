@@ -1,8 +1,8 @@
 # Data Scientist
 
-###Education
+### Education
 B.Tech Civil Engineering IIT (BHU) Varanasi
 
 
-###Projects
+### Projects
 _
